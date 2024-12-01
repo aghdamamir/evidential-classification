@@ -33,7 +33,7 @@ This scatter plot compares **Evidential Total Uncertainty** (X-axis) with **Cros
 
 ---
 
-## 📊 **Accuracy, Precision, Recall, and F1 Score**
+### **Accuracy, Precision, Recall, and F1 Score**
 
 This table compares the performance metrics of the two models on the test dataset:
 
